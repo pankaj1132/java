@@ -11,3 +11,6 @@ public class factorial_1_to_20_nested {
     }
     
 }
+
+
+// wap a java program to find sum of factorial of give no of each digit????
